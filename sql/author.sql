@@ -10,5 +10,3 @@ create table author(
 	INDEX(authorEmail),
 	primary key(authorId)
 );
-
--- The Real One
